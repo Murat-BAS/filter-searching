@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title": "Omkar Godbole",
+    "year": 1856,
+    "stock": true,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/R/R8HafUsrqfQivgKD-637469191353981091.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Şarki İki",
+    "year": 1978,
+    "stock": false,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/0/0uVfcx1Jhi2YRHAL-637469191600081845.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Omkar Godbole",
+    "year": 1856,
+    "stock": true,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/R/R8HafUsrqfQivgKD-637469191353981091.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Şarki İki",
+    "year": 1978,
+    "stock": false,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/0/0uVfcx1Jhi2YRHAL-637469191600081845.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Omkar Godbole",
+    "year": 1856,
+    "stock": true,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/R/R8HafUsrqfQivgKD-637469191353981091.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Şarki İki",
+    "year": 1978,
+    "stock": false,
+    "imageUrl": "https://seyler.ekstat.com/img/max/800/0/0uVfcx1Jhi2YRHAL-637469191600081845.jpg"
+  }
+]
